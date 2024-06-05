@@ -1,0 +1,3 @@
+[submodule "projects/airbnb-clone"]
+	path = projects/airbnb-clone
+	url = https://github.com/KavinSelvarasu/airbnb-clone.git
